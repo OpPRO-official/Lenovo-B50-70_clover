@@ -1,2 +1,12 @@
-# Lenovo-B50-70_CLOVER
-Clover hackintosh for Lenovo b50-70 
+# Lenovo-B50-70 clover EFI
+## **What works?**
+| Parts  | Works? (Yes/No) |
+| ------------- | ------------- |
+| Wifi (Qualcomm atheros ar9565)  | Yes, but require for your wifi: The channel width should be 20Mhz, or very slow wifi.  |
+| Bluetooth (Qualcomm atheros ar9565)  | Unknow, please write in Issues if work (on my laptop Lenovo b50-70 bluetooth is dead)  |
+| Battery | Yes! Works.  |
+| Touchpad | Yes! Works. |
+| Haswell cpu (i have i3-4030U) | Yes! Works|
+| SATA HDD | Yes! Works. |
+| 1x4 RAM HYNIX | Yes! Works. |
+| Realtek ALC233 | Yes! Works. |
