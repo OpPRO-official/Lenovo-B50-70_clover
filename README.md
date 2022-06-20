@@ -17,5 +17,7 @@
 
 
 
-Don't install mac os big sur and newer, wifi don't work, audio don't work (require applealc, id layout 3)
+Don't install mac os big sur and newer, wifi don't work, audio don't work (require applealc, id layout 3). 
+
+
 I recommended install Mojave or Catalina.
