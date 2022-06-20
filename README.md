@@ -10,6 +10,7 @@
 | SATA HDD | Yes! Works. |
 | 1x4 RAM HYNIX | Yes! Works. |
 | Realtek ALC233 | Yes! Works. |
+| Sleep mode/Hibernation | No, bad work, unstable. |
 
 
 
