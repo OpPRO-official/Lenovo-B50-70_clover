@@ -6,7 +6,7 @@
 | Bluetooth (Qualcomm atheros ar9565)  | Unknow, please write in Issues if work (on my laptop Lenovo b50-70 bluetooth is dead)  |
 | Battery | Yes! Works.  |
 | Touchpad | Yes! Works. |
-| Haswell cpu (i have i3-4030U) | Yes! Works|
+| Haswell cpu (i have i3-4030U) | Yes! Works, power managment works!|
 | SATA HDD | Yes! Works. |
 | 1x4 RAM HYNIX | Yes! Works. |
 | Realtek ALC233 | Yes! Works. |
