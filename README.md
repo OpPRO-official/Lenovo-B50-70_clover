@@ -10,4 +10,9 @@
 | SATA HDD | Yes! Works. |
 | 1x4 RAM HYNIX | Yes! Works. |
 | Realtek ALC233 | Yes! Works. |
+
+
+
+
+
 Don't install mac os big sur and newer, wifi don't work, audio don't work (require applealc, id layout 3)
