@@ -11,6 +11,7 @@
 | 1x4 RAM HYNIX | Yes! Works. |
 | Realtek ALC233 | Yes! Works. |
 | Sleep mode/Hibernation | No, bad work, unstable. |
+| Radeon r5 m230 | No, don't work. I recommended switch in bios Switchable graphics to UMA graphic.
 
 
 
